@@ -1,0 +1,32 @@
+_repo: Some-Naval-Yarns_26474
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Beatty, Ethel
+    gutenberg_agent_id: '32032'
+    url: http://www.gutenberg.org/2009/agents/32032
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Mordaunt
+    gutenberg_agent_id: '32031'
+    url: http://www.gutenberg.org/2009/agents/32031
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26474'
+  lccn: '17030065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Royal Navy'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+title: Some Naval Yarns
+url: http://www.gutenberg.org/ebooks/26474
